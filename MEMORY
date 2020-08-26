@@ -55,7 +55,6 @@ public class Calculation {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
 
 }
