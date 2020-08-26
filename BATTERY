@@ -44,6 +44,6 @@ public class Calculation2 {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-	}
+}
 
 }
